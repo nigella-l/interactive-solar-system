@@ -1,6 +1,6 @@
 # Advanced Shader and Planetary Animation
 
-An interactive, dynamic solar system with custom shaders using both Gouraud and Phong shading models in Three.js. Click keys 0-5 to manipulate camera view and object behavior.
+An interactive, dynamic solar system with custom shaders, using both Gouraud and Phong shading models. Click keys 0-5 to manipulate camera view and object behavior.
 
 ![image-0](docs/overview.gif)
 
